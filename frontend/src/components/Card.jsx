@@ -18,7 +18,7 @@ const Card = ({post}) => {
             </div>
         </div> */}
 
-
+    // card component user card component
     <div class="main bg-yellow-400 grid place-items-center h-screen">
   
           <div class="card bg-white flex flex-col items-center justify-center p-4 shadow-lg rounded-2xl w-64">
